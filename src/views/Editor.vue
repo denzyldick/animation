@@ -95,27 +95,6 @@
 </script>
 <style scoped="scoped" lang="scss">
     * {
-        margin: 0px;
-    }
-
-    .container {
-        height: 800px;
-    }
-
-    .canvas {
-        background-size: 40px 40px;
-        background-image: linear-gradient(to right, #ccc 1px, transparent 1px), linear-gradient(to bottom, #ccc 1px, transparent 1px);
-        border: 1px solid #000;
-        width: 100%;
-        height: 100%;
-
-    }
-
-    .selectedFrame {
-        border: 1px solid red;
-    }
-
-    .elementToAnimate {
-        cursor: pointer;
+        margin: 0;
     }
 </style>
