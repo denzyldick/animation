@@ -13,11 +13,6 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
-    "roboto-fontface": "*",
-    "simple-grid": "^1.0.1",
-    "v-drag": "^2.1.0",
-    "vue": "^2.5.22",
-    "vue-draggable-resizable": "^2.0.0-rc1",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
   },
